@@ -1,16 +1,8 @@
-'''
-O tipo de figura geométrica (Q)uadrado, (R)etângulo ou (C)írculo.
-Caso o usuário escolha quadrado, receba também com o tamanho do lado (float)
-Caso o usuário escolha o retângulo, receba também a largura e a altura (float)
-Caso o usuário escolha círculo, receba o tamanho do raio (float)
-Formato de saída
-
-Caso o usuário escolha quadrado ou retângulo, imprima a área e o perímetro
-Caso o usuário escolha círculo, imprima a área e o comprimento do círculo (considere pi=3.14).
-O valor de saída deve ser arredondado usando 2 casas decimais.
-
-
-'''
+###############################################################################################
+###################################### Michele Santos #########################################
+################################# Algoritimos e Programação I #################################
+################################## IFPB - Eng. de Computação ##################################
+###############################################################################################
 
 tipoFigura = input()
 tipoFigura = tipoFigura.upper()

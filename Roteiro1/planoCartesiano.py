@@ -1,11 +1,9 @@
-'''
-Ordenada y
-abcissa x
-No primeiro quadrante, os pontos possuem abcissa e ordenada positiva;
-Enquanto que no segundo, todos os pontos possuem abcissa negativa e ordenada positiva;
-No terceiro quadrante, os pontos possuem abcissa e ordenada negativa.
-Já no quarto, os pontos possuem abcissa positiva e ordenada negativa.
-'''
+###############################################################################################
+###################################### Michele Santos #########################################
+################################# Algoritimos e Programação I #################################
+################################## IFPB - Eng. de Computação ##################################
+###############################################################################################
+
 x = int(input())
 y = int(input())
 
