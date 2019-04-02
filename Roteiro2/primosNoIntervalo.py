@@ -13,7 +13,7 @@ if (inicioIntervalo > fimIntervalo):
     fimIntervalo =inicioIntervalo
     inicioIntervalo = menor
 
-for i in range(inicioIntervalo, fimIntervalo+1):
+for i in range(fimIntervalo, inicioIntervalo -1, -1):
 
     divisores = 0
     ehPrimo = True
